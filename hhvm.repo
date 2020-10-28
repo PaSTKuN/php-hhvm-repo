@@ -1,0 +1,6 @@
+[HHVM]
+name=HHVM repo
+baseurl=http://mirrors.linuxeye.com/hhvm-repo/$releasever/$basearch
+enabled=1
+gpgcheck=0
+repo_gpgcheck=0
